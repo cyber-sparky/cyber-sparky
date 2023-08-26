@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently studying on freshworks software academy
+- 🌱 I’m currently learning Networking
+- 📫 How to reach me: mdpranaw@gmail.com
+- ⚡ Fun fact: I dont fear bugs
+- 😍 I love doing something new
