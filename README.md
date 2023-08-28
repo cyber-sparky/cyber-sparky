@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey There !! Pranaw's Here 🤘
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranaw-m-9ab53024b/)
 
@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mdpranaw@gmail.com
 - ⚡ Fun fact: I dont fear bugs
 - 😍 I love doing something new
+- 👀 I love watching Anime 🤍
+
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,eclipse,git,github,linux,maven,mysql,ps,postman,py,vscode,java&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,eclipse,git,github,linux,maven,mysql,ps,postman,py,vscode,java)](https://skillicons.dev)
 
 
