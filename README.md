@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranaw-m-9ab53024b/)
+
 <!--
 **cyber-sparky/cyber-sparky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,3 +21,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mdpranaw@gmail.com
 - ⚡ Fun fact: I dont fear bugs
 - 😍 I love doing something new
+
+### Languages and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,eclipse,git,github,linux,maven,mysql,ps,postman,py,vscode,java&perline=5)](https://skillicons.dev)
+
+
