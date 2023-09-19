@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Networking
 - 📫 How to reach me: mdpranaw@gmail.com
 - ⚡ Fun fact: I dont fear bugs
-- 😍 I love doing something new
+- 😍 I love CTF 
 - 👀 I love watching Anime 🤍
 
 
