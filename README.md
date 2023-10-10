@@ -28,5 +28,3 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,eclipse,git,github,linux,maven,mysql,ps,postman,py,vscode,java)](https://skillicons.dev)
 
-### Checkout My CTF Accounts
-[PicoCTF](https://play.picoctf.org/users/cybersparky)
