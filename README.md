@@ -1,4 +1,4 @@
-```
+```yaml
                     $$\                                                                   $$\                 
                     $$ |                                                                  $$ |                
  $$$$$$$\ $$\   $$\ $$$$$$$\   $$$$$$\   $$$$$$\   $$$$$$$\  $$$$$$\   $$$$$$\   $$$$$$\  $$ |  $$\ $$\   $$\ 
@@ -10,33 +10,30 @@ $$ |      $$ |  $$ |$$ |  $$ |$$   ____|$$ |       \____$$\ $$ |  $$ |$$  __$$ |
           $$\   $$ |                                        $$ |                                    $$\   $$ |
           \$$$$$$  |                                        $$ |                                    \$$$$$$  |
            \______/                                         \__|                                     \______/ 
-```
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranaw-m-9ab53024b/)
-
-<!--
-**cyber-sparky/cyber-sparky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I’m currently studying on freshworks software academy
-- 🌱 I’m currently learning Networking
-- 📫 How to reach me: mdpranaw@gmail.com
-- ⚡ Fun fact: I dont fear bugs
-- 😍 I love CTF 
-- 👀 I love watching Anime 🤍
 
 
-### Languages and Tools:
+personal_info:
+  handle: "CyberSparky"
+  pronouns: "He/Him"
+  email: "mdpranaw@gmail.com"
+  fun_fact: "I don't fear bugs, they fear me! 💪"
+  hobbies: 
+    - "CTF Enthusiast 🚩"
+    - "Anime Lover 🤍"
+    - "Hacker Extraordinaire 🕶️"
+  
+current_focus:
+  study_place: "Freshworks Software Academy 📘"
+  learning: "Mastering the art of Hacking and Networking 🌐"
+  watching: "The latest anime series while sipping on coffee ☕️"
+  
+reach_out_to_me: "Feel free to drop me a message at mdpranaw@gmail.com if you dare! Let's hack the world together! 🌐🚀"
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,eclipse,git,github,linux,maven,mysql,ps,postman,py,vscode,java)](https://skillicons.dev)
-
+favorite_tools:
+  languages: ["JavaScript", "HTML", "CSS", "Python", "Java"]
+  technologies: ["Git", "GitHub", "Linux", "Bash", "Postman"]
+  editors: ["VS Code", "Eclipse"]
+  databases: ["MySQL"]
+  
+connect_with_me:
+  linkedin: https://www.linkedin.com/in/pranaw-m-9ab53024b/
