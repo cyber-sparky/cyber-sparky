@@ -4,7 +4,7 @@ $ whoami
                     $$\                                                                   $$\                 
                     $$ |                                                                  $$ |                
  $$$$$$$\ $$\   $$\ $$$$$$$\   $$$$$$\   $$$$$$\   $$$$$$$\  $$$$$$\   $$$$$$\   $$$$$$\  $$ |  $$\ $$\   $$\ 
-$$  _____|$$ |  $$ |$$  __$$\ $$  __$$\ $$  __$$\ $$  _____|$$  __$$\  \____$$\ $$  __$$\ $$ | $$  |$$ |  $$ |
+$$  _____|$$ |  $$ |$$  __$$\ $$  __$$\ $$  __$$\ $$  _____|$$  __$$\  \____$$\ $$  __$$\ $$ | $$  |$$ |  $$ | 
 $$ /      $$ |  $$ |$$ |  $$ |$$$$$$$$ |$$ |  \__|\$$$$$$\  $$ /  $$ | $$$$$$$ |$$ |  \__|$$$$$$  / $$ |  $$ |
 $$ |      $$ |  $$ |$$ |  $$ |$$   ____|$$ |       \____$$\ $$ |  $$ |$$  __$$ |$$ |      $$  _$$<  $$ |  $$ |
 \$$$$$$$\ \$$$$$$$ |$$$$$$$  |\$$$$$$$\ $$ |      $$$$$$$  |$$$$$$$  |\$$$$$$$ |$$ |      $$ | \$$\ \$$$$$$$ |
@@ -14,8 +14,8 @@ $$ |      $$ |  $$ |$$ |  $$ |$$   ____|$$ |       \____$$\ $$ |  $$ |$$  __$$ |
            \______/                                         \__|                                     \______/ 
 
 
-
-$ ls /body/head/mind/personal_info
+```
+```yaml
 
 personal_info:
   handle: "CyberSparky"
@@ -27,16 +27,12 @@ personal_info:
     - "Anime Lover 🤍"
     - "Hacker Extraordinaire 🕶️"
 
-$ ls /body/head/mind/current_focus
-
 current_focus:
   study_place: "Freshworks Software Academy 📘"
   learning: "Mastering the art of Hacking and Networking 🌐"
   watching: "The latest anime series while sipping on coffee ☕️"
   
 reach_out_to_me: "Feel free to drop me a message at mdpranaw@gmail.com if you dare! Let's hack the world together! 🌐🚀"
-
-$ ltrace ./favorite_tools
 
 favorite_tools:
   languages: ["JavaScript", "HTML", "CSS", "Python", "Java"]
@@ -46,4 +42,3 @@ favorite_tools:
   
 connect_with_me:
   linkedin: https://www.linkedin.com/in/pranaw-m-9ab53024b/
-```
