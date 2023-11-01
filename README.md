@@ -34,11 +34,9 @@ current_focus:
   
 reach_out_to_me: "Feel free to drop me a message at mdpranaw@gmail.com if you dare! Let's hack the world together! 🌐🚀"
 
-favorite_tools:
-  languages: ["JavaScript", "HTML", "CSS", "Python", "Java"]
-  technologies: ["Git", "GitHub", "Linux", "Bash", "Postman"]
-  editors: ["VS Code", "Eclipse"]
-  databases: ["MySQL"]
-  
 connect_with_me:
   linkedin: https://www.linkedin.com/in/pranaw-m-9ab53024b/
+
+```
+## Languages/Tools
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,eclipse,git,github,linux,maven,mysql,ps,postman,py,vscode,java)](https://skillicons.dev)
