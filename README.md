@@ -28,7 +28,7 @@ personal_info:
     - "Hacker Extraordinaire 🕶️"
 
 current_focus:
-  study_place: "Freshworks Software Academy 📘"
+  work_place: "Freshworks"
   learning: "Mastering the art of Hacking and Networking 🌐"
   watching: "The latest anime series while sipping on coffee ☕️"
   
