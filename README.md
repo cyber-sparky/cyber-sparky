@@ -11,7 +11,7 @@
 $ whoami
 > Security engineer focused on web application security, penetration testing,
   and offensive security research.
-> Active bug bounty hunter | CTF player | Building AI-augmented recon tooling.
+> Active bug bounty hunter | CTF player | Active Learner
 ```
 
 ---
