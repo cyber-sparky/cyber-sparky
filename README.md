@@ -30,14 +30,9 @@ $ whoami
 
 ### Skills & Tooling
 
-**Offensive / Recon**  
-`Burp Suite Pro` `Nuclei` `Subfinder` `HTTPX` `Katana` `DNSX` `Nmap` `Metasploit`
-
 **Languages & Dev**  
 `Python` `Bash` `JavaScript` `Java` `SQL`
 
-**Platforms & Tools**  
-`Kali Linux` `Git` `GitHub` `Postman` `VS Code` `MySQL`
 
 ---
 
