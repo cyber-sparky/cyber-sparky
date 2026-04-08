@@ -1,42 +1,47 @@
+```
+ ██████╗██╗   ██╗██████╗ ███████╗██████╗ ███████╗██████╗  █████╗ ██████╗ ██╗  ██╗██╗   ██╗
+██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝╚██╗ ██╔╝
+██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝███████╗██████╔╝███████║██████╔╝█████╔╝  ╚████╔╝ 
+██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗╚════██║██╔═══╝ ██╔══██║██╔══██╗██╔═██╗   ╚██╔╝  
+╚██████╗   ██║   ██████╔╝███████╗██║  ██║███████║██║     ██║  ██║██║  ██║██║  ██╗   ██║   
+ ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝  
+```
+
 ```bash
 $ whoami
-
-                    $$\                                                                   $$\                 
-                    $$ |                                                                  $$ |                
- $$$$$$$\ $$\   $$\ $$$$$$$\   $$$$$$\   $$$$$$\   $$$$$$$\  $$$$$$\   $$$$$$\   $$$$$$\  $$ |  $$\ $$\   $$\ 
-$$  _____|$$ |  $$ |$$  __$$\ $$  __$$\ $$  __$$\ $$  _____|$$  __$$\  \____$$\ $$  __$$\ $$ | $$  |$$ |  $$ | 
-$$ /      $$ |  $$ |$$ |  $$ |$$$$$$$$ |$$ |  \__|\$$$$$$\  $$ /  $$ | $$$$$$$ |$$ |  \__|$$$$$$  / $$ |  $$ |
-$$ |      $$ |  $$ |$$ |  $$ |$$   ____|$$ |       \____$$\ $$ |  $$ |$$  __$$ |$$ |      $$  _$$<  $$ |  $$ |
-\$$$$$$$\ \$$$$$$$ |$$$$$$$  |\$$$$$$$\ $$ |      $$$$$$$  |$$$$$$$  |\$$$$$$$ |$$ |      $$ | \$$\ \$$$$$$$ |
- \_______| \____$$ |\_______/  \_______|\__|      \_______/ $$  ____/  \_______|\__|      \__|  \__| \____$$ |
-          $$\   $$ |                                        $$ |                                    $$\   $$ |
-          \$$$$$$  |                                        $$ |                                    \$$$$$$  |
-           \______/                                         \__|                                     \______/ 
-
-
+> Security engineer focused on web application security, penetration testing,
+  and offensive security research.
+> Active bug bounty hunter | CTF player | Building AI-augmented recon tooling.
 ```
-```yaml
 
-personal_info:
-  handle: "CyberSparky"
-  pronouns: "He/Him"
-  email: "mdpranaw@gmail.com"
-  fun_fact: "I don't fear bugs, they fear me! 💪"
-  hobbies: 
-    - "CTF Enthusiast 🚩"
-    - "Anime Lover 🤍"
-    - "Hacker Extraordinaire 🕶️"
+---
 
-current_focus:
-  work_place: "Freshworks"
-  learning: "Mastering the art of Hacking and Networking 🌐"
-  watching: "The latest anime series while sipping on coffee ☕️"
-  
-reach_out_to_me: "Feel free to drop me a message at mdpranaw@gmail.com if you dare! Let's hack the world together! 🌐🚀"
+### About
 
-connect_with_me:
-  linkedin: https://www.linkedin.com/in/pranaw-m-9ab53024b/
+| | |
+|---|---|
+| **Role** | Security Engineer @ Freshworks |
+| **Focus** | Web AppSec · Bug Bounty · Penetration Testing |
+| **Building** | Automated recon pipelines · AI-augmented offensive tooling |
+| **Learning** | Advanced networking · Adversarial ML |
+| **Based in** | Chennai, India |
 
-```
-## Languages/Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,eclipse,git,github,linux,maven,mysql,ps,postman,py,vscode,java)](https://skillicons.dev)
+---
+
+### Skills & Tooling
+
+**Offensive / Recon**  
+`Burp Suite Pro` `Nuclei` `Subfinder` `HTTPX` `Katana` `DNSX` `Nmap` `Metasploit`
+
+**Languages & Dev**  
+`Python` `Bash` `JavaScript` `Java` `SQL`
+
+**Platforms & Tools**  
+`Kali Linux` `Git` `GitHub` `Postman` `VS Code` `MySQL`
+
+---
+
+### Connect
+
+[![Email](https://img.shields.io/badge/Email-hello%40cybersparky.in-blue?style=flat-square&logo=gmail)](mailto:hello@cybersparky.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranaw_M-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pranaw-m-9ab53024b/)
